@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "606679864301",
+    "firebase_url": "https://soil-quality-5c266-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "soil-quality-5c266",
+    "storage_bucket": "soil-quality-5c266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606679864301:android:89c358be98a4f8c3a10de4",
+        "android_client_info": {
+          "package_name": "com.soilquality.terranalysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wImO2TqYoQ8lCxYJ_RWM-qqvq1iEx-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
