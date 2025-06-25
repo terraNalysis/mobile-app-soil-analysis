@@ -1,7 +1,8 @@
-# terranalysis
+🌱 # TerraNalysis 
 
-TerraNalysis Mobile App works with an IoT soil monitoring system that tracks real-time NPK, moisture, and pH levels. Sensor data is sent to Firebase, letting users access live updates via the app. It helps farmers and gardeners monitor soil health remotely and support efficient, sustainable farming.
+TerraNalysis is a mobile application developed using Flutter that works with an IoT-based soil monitoring device. It provides real-time data on soil Nitrogen (N), Phosphorus (P), Potassium (K), Moisture, and pH levels, allowing farmers and gardeners to make informed decisions for healthier crops and sustainable agriculture.
 
+📸 #Previews
 ![user-manual-terranalysis-mobile-preview](https://github.com/user-attachments/assets/7b2a2c59-1a96-42b5-a7a8-184761fa2472)
 ![user-manual-terranalysis-soil-status-preview](https://github.com/user-attachments/assets/e1ba583b-2c5a-4838-93ec-581af93569fc)
 
