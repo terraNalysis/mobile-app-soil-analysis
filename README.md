@@ -2,6 +2,8 @@
 
 TerraNalysis is a mobile application developed using Flutter that works with an IoT-based soil monitoring device. It provides real-time data on soil Nitrogen (N), Phosphorus (P), Potassium (K), Moisture, and pH levels, allowing farmers and gardeners to make informed decisions for healthier crops and sustainable agriculture.
 
+Using a Wi-Fi-enabled microcontroller, the system sends data to a mobile app that displays soil insights and offers automated fertilizer recommendations. Comparative testing has proven its effectiveness in supporting sustainable and efficient farming. TerraNalysis is a cost-effective, scalable solution suitable for farms of all sizes, with future plans to enhance predictive soil modeling for even more precise nutrient management.
+
 # Previews
 
 ![user-manual-terranalysis-mobile-preview](https://github.com/user-attachments/assets/8806c0da-180b-4175-8d02-c0405b882fe4)
