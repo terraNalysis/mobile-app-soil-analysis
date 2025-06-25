@@ -1,0 +1,24 @@
+Recommendation
+*Part ng Soil Status
+1. Yung pong kg/ha gagwin na pong 'mg/kg' ang soil status
+2. Recommedation sa Fertilizer Materials may bago na po ang set up at computaion. Yung pong may category. At kg/ha po dapat lahat pagkuha ng resulta
+3. Sa Analysis po
+- kg/ha gagwin na pong 'mg/kg'
+- pH po pakiayos po 
+May mga range po yung nadapat lalabas po result. Tulad po ng 5.8 Slightly Acidic, kapag naman po ay 6.7 Neutral kapag rin po naman ay 8.6 ay Moderately Alkaline po.
+- Moisture Naman po ay ganung Di po High lang.
+Extremely Dry Soil: 0 to 20%
+Slightly Wet  Soil: 21% - 40%
+Moderately Wet Soil: 41% - 60%
+Extremely Wet Soil: 61% - 100%
+
+*Part po ng History
+1. Kapag daw po yung pinindot po ang Soil Analysis po.
+- Magpapakita po ng Fertilizer Materials, Recommendation po at Instruction. Bali pachek nalang po sa figma ang bago po. 
+2. Kapag naman po iselect sa calendar ang mga araw o buong buwan na pinag soil testing. Kaya po bang makuha po ang buong average po nila N, P, K, pH at moisture sa araw o buwan Na iyon po. (Parang katulad po ng Plant Health Monitoring sa Average Rate
+
+*Part po namn ni Plant Health
+- Pinapatanggal napo sya.
+
+*Part ng More Details
+- Papaltan ang Basic NPK Recommendation Solution na mga nilalaman po.
