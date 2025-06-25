@@ -1,6 +1,6 @@
 # terranalysis
 
-A new Flutter project.
+TerraNalysis Mobile App works with an IoT soil monitoring system that tracks real-time NPK, moisture, and pH levels. Sensor data is sent to Firebase, letting users access live updates via the app. It helps farmers and gardeners monitor soil health remotely and support efficient, sustainable farming.
 
 ## Getting Started
 
