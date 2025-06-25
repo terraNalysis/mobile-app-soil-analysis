@@ -8,7 +8,7 @@ TerraNalysis is a mobile application developed using Flutter that works with an 
 
 ![user-manual-terranalysis-soil-status-preview](https://github.com/user-attachments/assets/2ae5fa55-1415-4f79-8313-91ae8ee77a63)
 
-## Features
+# Features
 
 📡 Real-time soil data monitoring (NPK, pH, Moisture)
 ☁️ Integrated with Firebase Realtime Database
@@ -17,12 +17,13 @@ TerraNalysis is a mobile application developed using Flutter that works with an 
 🌿 Supports remote soil health tracking and data-driven farming
 🔔 Instant feedback for farmers and home gardeners
 
-## Applicable
+# Applicable
 
 🔗 Facebook: https://www.facebook.com/bcgcomm.terranalysis
+
 📦 APK Download: https://drive.google.com/file/d/1_k3j9rLDkUABBJHpxrOb-nWUqUZfCwSw/view?usp=sharing
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -35,9 +36,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Acknowledgement
+# Acknowledgement
 
 Firebase for real-time database
+
 Flutter & Dart community
+
 Our Capstone Advisers and Mentors
+
 Farmers and users who inspired this solution
